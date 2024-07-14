@@ -1,0 +1,9 @@
+bin/client
+bin/orchestrator
+obj/client.o
+obj/orchestrator.o
+obj/parser.o
+obj/utils.o
+.vscode/
+tmp/*
+output_folder/*
